@@ -1,4 +1,4 @@
 # pratik_demo_practice
-git repo dor demo project
+git repo demo project
 <br>
-authorr Pratik nandapurkar
+author Pratik Nandapurkar
